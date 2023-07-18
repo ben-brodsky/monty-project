@@ -1,0 +1,15 @@
+C:\Users\Ben\Documents\dev\montyProject\bin\Debug\net7.0\montyProject.exe
+C:\Users\Ben\Documents\dev\montyProject\bin\Debug\net7.0\montyProject.deps.json
+C:\Users\Ben\Documents\dev\montyProject\bin\Debug\net7.0\montyProject.runtimeconfig.json
+C:\Users\Ben\Documents\dev\montyProject\bin\Debug\net7.0\montyProject.dll
+C:\Users\Ben\Documents\dev\montyProject\bin\Debug\net7.0\montyProject.pdb
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.AssemblyInfoInputs.cache
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.AssemblyInfo.cs
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.dll
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\refint\montyProject.dll
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.pdb
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\montyProject.genruntimeconfig.cache
+C:\Users\Ben\Documents\dev\montyProject\obj\Debug\net7.0\ref\montyProject.dll
